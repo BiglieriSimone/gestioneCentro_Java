@@ -60,3 +60,8 @@ Implementare un thread per il salvataggio automatico periodico in un file tempor
 ## Stampa della tabella degli interventi:
 Si dia all’utente la possibilità di stampare la tabella con gli interventi. Si sfruttino le classi
 di libreria Java per stampare tramite una delle stampanti configurate dal sistema operativo
+
+---
+
+### Autore
+Simone Biglieri
